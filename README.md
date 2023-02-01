@@ -1,2 +1,2 @@
-My first readme: Updated by me
+Getting up to date with git
 
